@@ -1,0 +1,6 @@
+Salut, 
+
+Voici le PlasmaGame Traduis en Français avec quelque modification comme le drawmarker
+et le blip.
+
+By Kamion#1323 bonne journée
